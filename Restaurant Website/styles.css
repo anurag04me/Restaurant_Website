@@ -1,0 +1,32 @@
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+.hero {
+    background-size: cover;
+    background-position: center;
+    background-blend-mode: multiply;
+    background-color: rgba(0, 0, 0, 0.6); /* Dark overlay */
+}
+
+
+.menu-item {
+    background-color: #fff;
+    border-color: #e8a87c;
+}
+
+.menu-item h3 {
+    color: #d95d39;
+}
+
+/* Footer */
+footer p {
+    margin: 0;
+    font-size: 14px;
+}
